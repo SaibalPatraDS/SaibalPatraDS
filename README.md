@@ -1,5 +1,10 @@
 # 💫 About Me ![](https://komarev.com/ghpvc/?username=SaibalPatraDS&color=green)
 
+----------------------------------------------------------------------
+
+### Hi There!
+
+I am Saibal Patra, and I am currently pursuing BTech, final-year student.
 <!--
 **SaibalPatraDS/SaibalPatraDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
