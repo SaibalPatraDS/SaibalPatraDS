@@ -6,8 +6,9 @@
 
 I am Saibal Patra, and I am currently pursuing BTech, final-year student from `NSUT`.
 
-**OverView of *Saibal Patra* **
-🔭 I’m currently working as `Business Analyst` in @GobbleCube.ai
+**OverView of *Saibal Patra***
+
+- 🔭 I’m currently working as `Business Analyst` in @GobbleCube.ai
 <!--
 **SaibalPatraDS/SaibalPatraDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
