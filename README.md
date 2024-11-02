@@ -4,7 +4,7 @@
 
 ### Hi There!
 
-I am Saibal Patra, and I am currently pursuing BTech, final-year student from `NSUT`.
+I am Saibal Patra, and have completed my BTech from `NSUT-2024`.
 
 **OverView of *Saibal Patra***
 
