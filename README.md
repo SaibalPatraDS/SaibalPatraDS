@@ -16,8 +16,11 @@ I’m **Saibal Patra**, a passionate Business Analyst with a solid grounding in 
 
 ---
 
-## 📫 How to Reach Me
-- **Email**: [saibal.patra.2001@gmail.com]
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saibal.patra.2001@gmail.com)
+
+--
 
 
 ## 🛠️ Tech Stacks
@@ -50,11 +53,6 @@ I’m **Saibal Patra**, a passionate Business Analyst with a solid grounding in 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
-
-
-## 🛠️ Tech Stacks
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaibalPatraDS&layout=compact&theme=radical)
 
 ## 📊 GitHub Stats:
 ![Saibal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaibalPatraDS&show_icons=true&theme=radical)
