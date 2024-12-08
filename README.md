@@ -2,16 +2,23 @@
 
 ----------------------------------------------------------------------
 
-### Hi There!
+# Hi There! 👋
 
-I am Saibal Patra, and have completed my BTech from `NSUT-2024`.
+I’m **Saibal Patra**, a passionate Business Analyst with a solid grounding in data analysis, machine learning, and AI. I graduated with a **B.Tech in Computer Science and Engineering** from **Netaji Subhas University of Technology (NSUT), Class of 2024**.
 
-**OverView of *Saibal Patra***
+---
 
-- 🔭 I’m currently working as `Business Analyst` in `GobbleCube.ai`
-- 🌱 I’m currently learning Maths behind LLMs and Deep Learning.
-- 🔭 I’m currently exploring Hands on LLMs and Neural Networks from Scratch.
-- 📫 How to reach me: *Email*: [saibal.patra.2001@gmail.com]
+## 🌟 Overview
+- 💼 **Current Role**: Business Analyst at **GobbleCube.ai**  
+- 🌱 **What I’m Learning**:  
+  - The mathematics behind **Large Language Models (LLMs)** and **Deep Learning** concepts.  
+  - Exploring and implementing **LLMs** and **Neural Networks from scratch**.  
+
+---
+
+## 📫 How to Reach Me
+- **Email**: [saibal.patra.2001@gmail.com]
+
 
 ## 🛠️ Tech Stacks
 
