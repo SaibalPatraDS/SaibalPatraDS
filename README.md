@@ -4,7 +4,7 @@
 
 # Hi There! 👋
 
-I’m **Saibal Patra**, a passionate Analyst with a solid grounding in data analysis, machine learning, and AI. I graduated with a **B.Tech in Computer Science and Engineering** from **Netaji Subhas University of Technology (NSUT), Class of 2024**.
+I’m **Saibal Patra**, a passionate Analyst with a solid grounding in data analysis, machine learning, and AI. I graduated with a **B.Tech in Computer Science and Engineering** from **Netaji Subhas University of Technology (NSUT) Delhi, Class of 2024**.
 
 ---
 
