@@ -9,7 +9,7 @@ I’m **Saibal Patra**, a passionate Analyst with a solid grounding in data anal
 ---
 
 ## 🌟 Overview
-- 💼 **Current Role**: Analyst at **GobbleCube.ai**  
+- 💼 **Current Role**: Analyst at **ZOCA AI**  
 - 🌱 **What I’m Learning**:  
   - The mathematics behind **Large Language Models (LLMs)** and **Deep Learning** concepts.  
   - Exploring and implementing **LLMs** and **Neural Networks from scratch**.  
